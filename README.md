@@ -99,10 +99,13 @@ jupyter notebook
 💡 Future Work
 
 Clustering using KMeans to define optimal pricing zones
+
 Time series trend analysis (if date columns available)
+
 Dashboard integration using Streamlit or Tableau
 
 🙌 Acknowledgments
 
 Kaggle Datasets
+
 Airbnb NYC data contributors
